@@ -34,6 +34,6 @@
 
 ###
 
-<p align="left">Gökhan bu işi biliyor  - Bill Gates<br><br>Hayatta olsam kesin işe alırdım - Steve Jobs<br><br>Bu GitHub profili olmuş  - Gökhan Türkmen</p>
+<p align="left">Gökhan bu işi biliyor  - Bill Gates<br><br>Hayatta olsam kesin işe alırdım - Steve Jobs<br></p>
 
 ###
